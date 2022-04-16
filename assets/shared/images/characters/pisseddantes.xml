@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pisseddantes.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dantes punchline down0000" x="0" y="0" width="488" height="581" frameX="0" frameY="-19" frameWidth="489" frameHeight="600"/>
+	<SubTexture name="Dantes punchline down0001" x="0" y="0" width="488" height="581" frameX="0" frameY="-19" frameWidth="489" frameHeight="600"/>
+	<SubTexture name="Dantes punchline down0002" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0003" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0004" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0005" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0006" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0007" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0008" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0009" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0010" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0011" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0012" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0013" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0014" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0015" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0016" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0017" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0018" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0019" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0020" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0021" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0022" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0023" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0024" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0025" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0026" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0027" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0028" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0029" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0030" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0031" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0032" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0033" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0034" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0035" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0036" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0037" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0038" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0039" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0040" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0041" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0042" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0043" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0044" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0045" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0046" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0047" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0048" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline down0049" x="508" y="0" width="489" height="600"/>
+	<SubTexture name="Dantes punchline idle0000" x="1017" y="0" width="503" height="635" frameX="0" frameY="-18" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0001" x="1017" y="0" width="503" height="635" frameX="0" frameY="-18" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0002" x="1540" y="0" width="502" height="636" frameX="0" frameY="-17" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0003" x="1540" y="0" width="502" height="636" frameX="0" frameY="-17" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0004" x="2062" y="0" width="497" height="640" frameX="0" frameY="-12" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0005" x="2062" y="0" width="497" height="640" frameX="0" frameY="-12" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0006" x="2579" y="0" width="492" height="649" frameX="0" frameY="-3" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0007" x="2579" y="0" width="492" height="649" frameX="0" frameY="-3" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0008" x="3091" y="0" width="490" height="652" frameX="0" frameY="0" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0009" x="3091" y="0" width="490" height="652" frameX="0" frameY="0" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0010" x="3091" y="0" width="490" height="652" frameX="0" frameY="0" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0011" x="3091" y="0" width="490" height="652" frameX="0" frameY="0" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0012" x="3091" y="0" width="490" height="652" frameX="0" frameY="0" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline idle0013" x="3091" y="0" width="490" height="652" frameX="0" frameY="0" frameWidth="503" frameHeight="653"/>
+	<SubTexture name="Dantes punchline left0000" x="3601" y="0" width="389" height="679" frameX="0" frameY="0" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0001" x="3601" y="0" width="389" height="679" frameX="0" frameY="0" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0002" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0003" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0004" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0005" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0006" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0007" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0008" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0009" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0010" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0011" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0012" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0013" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0014" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0015" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0016" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0017" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0018" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0019" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0020" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0021" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0022" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0023" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0024" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0025" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0026" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0027" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0028" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0029" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0030" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0031" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0032" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0033" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0034" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0035" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0036" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0037" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0038" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0039" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0040" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0041" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0042" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0043" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0044" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0045" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0046" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0047" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0048" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline left0049" x="0" y="699" width="397" height="672" frameX="0" frameY="-7" frameWidth="397" frameHeight="679"/>
+	<SubTexture name="Dantes punchline right0000" x="417" y="699" width="542" height="667"/>
+	<SubTexture name="Dantes punchline right0001" x="417" y="699" width="542" height="667"/>
+	<SubTexture name="Dantes punchline right0002" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0003" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0004" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0005" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0006" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0007" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0008" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0009" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0010" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0011" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0012" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0013" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0014" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0015" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0016" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0017" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0018" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0019" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0020" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0021" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0022" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0023" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0024" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0025" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0026" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0027" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0028" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0029" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0030" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0031" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0032" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0033" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0034" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0035" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0036" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0037" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0038" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0039" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0040" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0041" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0042" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0043" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0044" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0045" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0046" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0047" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0048" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline right0049" x="979" y="699" width="528" height="662" frameX="0" frameY="-5" frameWidth="542" frameHeight="667"/>
+	<SubTexture name="Dantes punchline up0000" x="1527" y="699" width="409" height="712" frameX="0" frameY="0" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0001" x="1527" y="699" width="409" height="712" frameX="0" frameY="0" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0002" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0003" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0004" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0005" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0006" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0007" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0008" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0009" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0010" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0011" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0012" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0013" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0014" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0015" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0016" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0017" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0018" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0019" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0020" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0021" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0022" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0023" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0024" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0025" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0026" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0027" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0028" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0029" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0030" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0031" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0032" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0033" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0034" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0035" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0036" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0037" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0038" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0039" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0040" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0041" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0042" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0043" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0044" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0045" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0046" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0047" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0048" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes punchline up0049" x="1956" y="699" width="423" height="691" frameX="0" frameY="-21" frameWidth="423" frameHeight="712"/>
+	<SubTexture name="Dantes transformation0000" x="2399" y="699" width="483" height="652" frameX="-27" frameY="-343" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0001" x="2399" y="699" width="483" height="652" frameX="-27" frameY="-343" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0002" x="2902" y="699" width="482" height="660" frameX="-27" frameY="-335" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0003" x="2902" y="699" width="482" height="660" frameX="-27" frameY="-335" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0004" x="3404" y="699" width="496" height="682" frameX="-24" frameY="-314" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0005" x="3404" y="699" width="496" height="682" frameX="-24" frameY="-314" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0006" x="0" y="1431" width="599" height="727" frameX="-10" frameY="-284" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0007" x="0" y="1431" width="599" height="727" frameX="-10" frameY="-284" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0008" x="619" y="1431" width="635" height="800" frameX="-3" frameY="-211" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0009" x="619" y="1431" width="635" height="800" frameX="-3" frameY="-211" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0010" x="1274" y="1431" width="537" height="953" frameX="-1" frameY="-76" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0011" x="1274" y="1431" width="537" height="953" frameX="-1" frameY="-76" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0012" x="1831" y="1431" width="472" height="981" frameX="-1" frameY="-35" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0013" x="1831" y="1431" width="472" height="981" frameX="-1" frameY="-35" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0014" x="2323" y="1431" width="468" height="1000" frameX="-1" frameY="-15" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0015" x="2323" y="1431" width="468" height="1000" frameX="-1" frameY="-15" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0016" x="2811" y="1431" width="469" height="1010" frameX="-1" frameY="-5" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0017" x="2811" y="1431" width="469" height="1010" frameX="-1" frameY="-5" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0018" x="3300" y="1431" width="478" height="1013" frameX="-1" frameY="-2" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0019" x="3300" y="1431" width="478" height="1013" frameX="-1" frameY="-2" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0020" x="0" y="2464" width="478" height="1013" frameX="-1" frameY="-2" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0021" x="0" y="2464" width="478" height="1013" frameX="-1" frameY="-2" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0022" x="0" y="2464" width="478" height="1013" frameX="-1" frameY="-2" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0023" x="0" y="2464" width="478" height="1013" frameX="-1" frameY="-2" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0024" x="0" y="2464" width="478" height="1013" frameX="-1" frameY="-2" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0025" x="0" y="2464" width="478" height="1013" frameX="-1" frameY="-2" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0026" x="498" y="2464" width="475" height="1014" frameX="-1" frameY="-1" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0027" x="498" y="2464" width="475" height="1014" frameX="-1" frameY="-1" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0028" x="993" y="2464" width="474" height="1015" frameX="0" frameY="0" frameWidth="638" frameHeight="1029"/>
+	<SubTexture name="Dantes transformation0029" x="993" y="2464" width="474" height="1015" frameX="0" frameY="0" frameWidth="638" frameHeight="1029"/>
+</TextureAtlas>

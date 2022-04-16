@@ -1,0 +1,67 @@
+{
+	"storyName": "no way singin' pumpkin!!!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dantes",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dantes",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Shadow World",
+			"shadow-dantes",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Me lol",
+			"makar",
+			[
+				206,
+				173,
+				135
+			]
+		],
+		[
+			"Inferno",
+			"dagon",
+			[
+				180,
+				60,
+				0
+			]
+		],
+		[
+			"Pete",
+			"pete",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Dantes Cancelling",
+			"nikerlo",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week Pumpkin"
+}

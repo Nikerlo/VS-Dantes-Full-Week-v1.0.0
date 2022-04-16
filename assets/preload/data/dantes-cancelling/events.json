@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "stage",
+		"player1": "abrikos",
+		"player2": "nikerlo",
+		"player3": null,
+		"events": [
+			[
+				109928.571428572,
+				[
+					[
+						"Play Animation",
+						"ALT",
+						"dad"
+					]
+				]
+			],
+			[
+				110857.142857143,
+				[
+					[
+						"Play Animation",
+						"yes",
+						"bf"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"melol-flipx"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nothing",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "dantes-cancelling"
+	}
+}

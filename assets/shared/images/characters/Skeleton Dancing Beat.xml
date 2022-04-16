@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Skeleton Dancing Beat.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Skeleton Dancing Beat0000" x="0" y="0" width="1199" height="954" frameX="0" frameY="-59" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0001" x="1219" y="0" width="1199" height="955" frameX="0" frameY="-58" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0002" x="2438" y="0" width="1199" height="955" frameX="0" frameY="-58" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0003" x="3657" y="0" width="1200" height="957" frameX="0" frameY="-56" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0004" x="4877" y="0" width="1201" height="958" frameX="0" frameY="-55" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0005" x="6098" y="0" width="1203" height="961" frameX="0" frameY="-52" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0006" x="0" y="981" width="1206" height="964" frameX="0" frameY="-49" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0007" x="1226" y="981" width="1207" height="969" frameX="0" frameY="-44" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0008" x="2453" y="981" width="1207" height="971" frameX="0" frameY="-42" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0009" x="3680" y="981" width="1208" height="984" frameX="0" frameY="-29" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0010" x="4908" y="981" width="1208" height="998" frameX="0" frameY="-15" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0011" x="6136" y="981" width="1208" height="1003" frameX="0" frameY="-10" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0012" x="0" y="2004" width="1208" height="1008" frameX="0" frameY="-5" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0013" x="1228" y="2004" width="1208" height="1010" frameX="0" frameY="-3" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0014" x="2456" y="2004" width="1207" height="1013" frameX="0" frameY="0" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0015" x="3683" y="2004" width="1206" height="1013" frameX="0" frameY="0" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0016" x="4909" y="2004" width="1202" height="1013" frameX="0" frameY="0" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0017" x="6131" y="2004" width="1201" height="1012" frameX="0" frameY="-1" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0018" x="0" y="3037" width="1200" height="1011" frameX="0" frameY="-2" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0019" x="1220" y="3037" width="1200" height="1009" frameX="0" frameY="-4" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0020" x="2440" y="3037" width="1199" height="1006" frameX="0" frameY="-7" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0021" x="3659" y="3037" width="1199" height="1003" frameX="0" frameY="-10" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0022" x="4878" y="3037" width="1199" height="995" frameX="0" frameY="-18" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0023" x="6097" y="3037" width="1199" height="984" frameX="0" frameY="-29" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0024" x="0" y="4068" width="1199" height="965" frameX="0" frameY="-48" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0025" x="1219" y="4068" width="1199" height="961" frameX="0" frameY="-52" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0026" x="2438" y="4068" width="1199" height="957" frameX="0" frameY="-56" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0027" x="3657" y="4068" width="1199" height="956" frameX="0" frameY="-57" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0028" x="4876" y="4068" width="1199" height="955" frameX="0" frameY="-58" frameWidth="1208" frameHeight="1013"/>
+	<SubTexture name="Skeleton Dancing Beat0029" x="4876" y="4068" width="1199" height="955" frameX="0" frameY="-58" frameWidth="1208" frameHeight="1013"/>
+</TextureAtlas>
